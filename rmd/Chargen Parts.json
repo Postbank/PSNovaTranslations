@@ -81,27 +81,27 @@
   },
   "440016": {
     "OriginalText": "キャスト男性顔ベースＡ",
-    "Text": "Base Cast Male Face A",
+    "Text": "Base CAST Male Face A",
     "Enabled": true
   },
   "440017": {
     "OriginalText": "キャスト男性顔ベースＢ",
-    "Text": "Base Cast Male Face B",
+    "Text": "Base CAST Male Face B",
     "Enabled": true
   },
   "440018": {
     "OriginalText": "キャスト男性顔ベースＣ",
-    "Text": "Base Cast Male Face C",
+    "Text": "Base CAST Male Face C",
     "Enabled": true
   },
   "440019": {
     "OriginalText": "キャスト男性顔ベースＤ",
-    "Text": "Base Cast Male Face D",
+    "Text": "Base CAST Male Face D",
     "Enabled": true
   },
   "440020": {
     "OriginalText": "キャスト男性顔ベースＥ",
-    "Text": "Base Cast Male Face E",
+    "Text": "Base CAST Male Face E",
     "Enabled": true
   },
   "440021": {
@@ -121,27 +121,27 @@
   },
   "440024": {
     "OriginalText": "キャスト男性顔ベースＦ",
-    "Text": "Base Cast Male Face F",
+    "Text": "Base CAST Male Face F",
     "Enabled": true
   },
   "440025": {
     "OriginalText": "ロニア・ヘッド破",
-    "Text": "Broken Ronia Head",
+    "Text": "Ronia Head (Damaged)",
     "Enabled": true
   },
   "440026": {
     "OriginalText": "ディスタ・ヘッド破",
-    "Text": "Broken Dista Head",
+    "Text": "Dista Head (Damaged)",
     "Enabled": true
   },
   "440027": {
     "OriginalText": "ファウマ・ヘッド破",
-    "Text": "Broken Fauma Head",
+    "Text": "Fauma Head (Damaged)",
     "Enabled": true
   },
   "440028": {
     "OriginalText": "アングリフ・ヘッド破",
-    "Text": "Broken Angriff Head",
+    "Text": "Angriff Head (Damaged)",
     "Enabled": true
   },
   "440029": {
@@ -151,12 +151,12 @@
   },
   "440030": {
     "OriginalText": "マギウス・ヘッド破",
-    "Text": "Broken Magius Head",
+    "Text": "Magius Head (Damaged)",
     "Enabled": true
   },
   "440031": {
     "OriginalText": "シェリフ・ヘッド破",
-    "Text": "Broken Sheriff Head",
+    "Text": "Sheriff Head (Damaged)",
     "Enabled": true
   },
   "440032": {
@@ -171,22 +171,22 @@
   },
   "440034": {
     "OriginalText": "フィルフ・ヘッド破",
-    "Text": "Broken Fliph Head",
+    "Text": "Fliph Head (Damaged)",
     "Enabled": true
   },
   "440035": {
     "OriginalText": "ヒュリオン・ヘッド破",
-    "Text": "Broken Hurion Head",
+    "Text": "Hurion Head (Damaged)",
     "Enabled": true
   },
   "440036": {
     "OriginalText": "メルダー・ヘッド破",
-    "Text": "Broken Melder Head",
+    "Text": "Melder Head (Damaged)",
     "Enabled": true
   },
   "440037": {
     "OriginalText": "アラオ・ヘッド破",
-    "Text": "Broken Arao Head",
+    "Text": "Arao Head (Damaged)",
     "Enabled": true
   },
   "440038": {
@@ -266,22 +266,22 @@
   },
   "440053": {
     "OriginalText": "キャスト女性顔ベースＡ",
-    "Text": "Base Cast Female Face A",
+    "Text": "Base CAST Female Face A",
     "Enabled": true
   },
   "440054": {
     "OriginalText": "キャスト女性顔ベースＢ",
-    "Text": "Base Cast Female Face B",
+    "Text": "Base CAST Female Face B",
     "Enabled": true
   },
   "440055": {
     "OriginalText": "キャスト女性顔ベースＣ",
-    "Text": "Base Cast Female Face C",
+    "Text": "Base CAST Female Face C",
     "Enabled": true
   },
   "440056": {
     "OriginalText": "キャスト女性顔ベースＤ",
-    "Text": "Base Cast Female Face D",
+    "Text": "Base CAST Female Face D",
     "Enabled": true
   },
   "440057": {
@@ -301,7 +301,7 @@
   },
   "440060": {
     "OriginalText": "キャスト女性顔ベースＥ",
-    "Text": "Base Cast Female Face E",
+    "Text": "Base CAST Female Face E",
     "Enabled": true
   },
   "440061": {
@@ -321,28 +321,28 @@
   },
   "440064": {
     "OriginalText": "キャスト女性用アニメ系",
-    "Text": "Cast Female Animation System",
+    "Text": "CAST Female Animation System",
     "Enabled": true
   },
   "440065": {
     "OriginalText": "ヒューマン女性顔ベースＥ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Human Female Face E",
+    "Enabled": true
   },
   "440066": {
     "OriginalText": "ニューマン女性顔ベースＩ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Newman Female Face I",
+    "Enabled": true
   },
   "440067": {
     "OriginalText": "ニューマン女性顔ベースＪ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base Newman Female Face J",
+    "Enabled": true
   },
   "440068": {
     "OriginalText": "キャスト女性顔ベースＦ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Base CAST Female Face F",
+    "Enabled": true
   },
   "440069": {
     "OriginalText": "セイル",
@@ -416,8 +416,8 @@
   },
   "440083": {
     "OriginalText": "シャロン用フェイス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Sharon Face",
+    "Enabled": true
   },
   "440084": {
     "OriginalText": "人型用 タイプＡ 大",
@@ -591,97 +591,97 @@
   },
   "440118": {
     "OriginalText": "人型用 タイプＡ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type A",
+    "Enabled": true
   },
   "440119": {
     "OriginalText": "人型用 タイプＢ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type B",
+    "Enabled": true
   },
   "440120": {
     "OriginalText": "人型用 タイプＣ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type C",
+    "Enabled": true
   },
   "440121": {
     "OriginalText": "人型用 タイプＤ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type D",
+    "Enabled": true
   },
   "440122": {
     "OriginalText": "人型用 タイプＥ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type E",
+    "Enabled": true
   },
   "440123": {
     "OriginalText": "人型用 タイプＦ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type F",
+    "Enabled": true
   },
   "440124": {
     "OriginalText": "人型用 タイプＧ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type G",
+    "Enabled": true
   },
   "440125": {
     "OriginalText": "人型用 タイプＨ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type H",
+    "Enabled": true
   },
   "440126": {
     "OriginalText": "人型用 タイプＩ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type I",
+    "Enabled": true
   },
   "440127": {
     "OriginalText": "人型用 タイプＪ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type J",
+    "Enabled": true
   },
   "440128": {
     "OriginalText": "人型用 タイプＫ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type K",
+    "Enabled": true
   },
   "440129": {
     "OriginalText": "人型用 タイプＬ",
-    "Text": "",
+    "Text": "Type L",
     "Enabled": false
   },
   "440130": {
     "OriginalText": "人型用 タイプＭ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type M",
+    "Enabled": true
   },
   "440131": {
     "OriginalText": "人型用 タイプＮ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Type N",
+    "Enabled": true
   },
   "440132": {
     "OriginalText": "キャスト用 タイプＡ",
-    "Text": "CAST Type A",
+    "Text": "Type A",
     "Enabled": true
   },
   "440133": {
     "OriginalText": "キャスト用 タイプＢ",
-    "Text": "CAST Type B",
+    "Text": "Type B",
     "Enabled": true
   },
   "440134": {
     "OriginalText": "キャスト用 タイプＣ",
-    "Text": "CAST Type C",
+    "Text": "Type C",
     "Enabled": true
   },
   "440135": {
     "OriginalText": "キャスト用 タイプＤ",
-    "Text": "CAST Type D",
+    "Text": "Type D",
     "Enabled": true
   },
   "440136": {
     "OriginalText": "キャスト用 タイプＥ",
-    "Text": "CAST Type E",
+    "Text": "Type E",
     "Enabled": true
   },
   "440137": {
@@ -826,7 +826,7 @@
   },
   "440165": {
     "OriginalText": "スパイク",
-    "Text": "Spike,
+    "Text": "Spike",
     "Enabled": true
   },
   "440166": {
@@ -841,7 +841,7 @@
   },
   "440168": {
     "OriginalText": "ビグテール",
-    "Text": "Bigtail",
+    "Text": "Big Tail",
     "Enabled": true
   },
   "440169": {
@@ -901,8 +901,8 @@
   },
   "440180": {
     "OriginalText": "中分けショートボブ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Middle-Parted Short Bob",
+    "Enabled": true
   },
   "440181": {
     "OriginalText": "ワイルドポニー",
@@ -936,8 +936,8 @@
   },
   "440187": {
     "OriginalText": "外ハネセミロング",
-    "Text": "",
-    "Enabled": false
+    "Text": "Outward Combed Semi-Long",
+    "Enabled": true
   },
   "440188": {
     "OriginalText": "ヘリパイロットヘルメット",
@@ -1041,8 +1041,8 @@
   },
   "440208": {
     "OriginalText": "たれツインテ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Low Twin Tails",
+    "Enabled": true
   },
   "440209": {
     "OriginalText": "イーリスビーハイブ",
@@ -1136,17 +1136,17 @@
   },
   "440242": {
     "OriginalText": "フェイスガード 白",
-    "Text": "Face Guard White",
-    "Enabled": false
+    "Text": "White Face Guard",
+    "Enabled": true
   },
   "440243": {
     "OriginalText": "フェイスガード グレー",
-    "Text": "Face Guard Grey",
+    "Text": "Grey Face Guard",
     "Enabled": true
   },
   "440244": {
     "OriginalText": "フェイスガード ブラック",
-    "Text": "Face Guard Black",
+    "Text": "Black Face Guard",
     "Enabled": true
   },
   "440245": {
@@ -1191,98 +1191,98 @@
   },
   "440253": {
     "OriginalText": "プリティフラワー",
-    "Text": "",
-    "Enabled": false
+    "Text": "Pretty Flower",
+    "Enabled": true
   },
   "440254": {
     "OriginalText": "傷跡１",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scar 1",
+    "Enabled": true
   },
   "440255": {
     "OriginalText": "傷跡２",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scar 2",
+    "Enabled": true
   },
   "440256": {
     "OriginalText": "傷跡３",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scar 3",
+    "Enabled": true
   },
   "440257": {
     "OriginalText": "傷跡４",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scar 4",
+    "Enabled": true
   },
   "440258": {
     "OriginalText": "傷跡５",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scar 5",
+    "Enabled": true
   },
   "440259": {
     "OriginalText": "傷跡６",
-    "Text": "",
-    "Enabled": false
+    "Text": "Scar 6",
+    "Enabled": true
   },
   "440260": {
     "OriginalText": "ソバカス",
-    "Text": "",
-    "Enabled": false
+    "Text": "Freckles",
+    "Enabled": true
   },
   "440261": {
     "OriginalText": "ナチュラルメイク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Natural Makeup",
+    "Enabled": true
   },
   "440262": {
     "OriginalText": "モデルメイク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Model Makeup",
+    "Enabled": true
   },
   "440263": {
     "OriginalText": "麗いメイク",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dark Makeup",
+    "Enabled": true
   },
   "440264": {
     "OriginalText": "リップカラー 赤",
-    "Text": "",
-    "Enabled": false
+    "Text": "Red Lip Color",
+    "Enabled": true
   },
   "440265": {
     "OriginalText": "リップカラー 紅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thick Red Lip Color",
+    "Enabled": true
   },
   "440266": {
     "OriginalText": "リップカラー 薄紅",
-    "Text": "",
-    "Enabled": false
+    "Text": "Thin Red Lip Color",
+    "Enabled": true
   },
   "440267": {
     "OriginalText": "リップカラー 橙",
-    "Text": "",
-    "Enabled": false
+    "Text": "Orange Lip Color",
+    "Enabled": true
   },
   "440268": {
     "OriginalText": "リップカラー 緑",
-    "Text": "",
-    "Enabled": false
+    "Text": "Green Lip Color",
+    "Enabled": true
   },
   "440269": {
     "OriginalText": "リップカラー 青",
-    "Text": "",
-    "Enabled": false
+    "Text": "Blue Lip Color",
+    "Enabled": true
   },
   "440270": {
     "OriginalText": "リップカラー 紫",
-    "Text": "",
-    "Enabled": false
+    "Text": "Purple Lip Color",
+    "Enabled": true
   },
   "440271": {
     "OriginalText": "リップカラー 黒",
-    "Text": "",
-    "Enabled": false
+    "Text": "Black Lip Color",
+    "Enabled": true
   },
   "440272": {
     "OriginalText": "口ひげ",
@@ -1306,17 +1306,17 @@
   },
   "440276": {
     "OriginalText": "キャスト用 ラインタイプＡ",
-    "Text": "CAST Line Type A",
+    "Text": "Line Type A",
     "Enabled": true
   },
   "440277": {
     "OriginalText": "キャスト用 ラインタイプＢ",
-    "Text": "CAST Line Type B",
+    "Text": "Line Type B",
     "Enabled": true
   },
   "440278": {
     "OriginalText": "キャスト用 ラインタイプＣ",
-    "Text": "CAST Line Type C",
+    "Text": "Line Type C",
     "Enabled": true
   },
   "440279": {
@@ -1351,8 +1351,8 @@
   },
   "440285": {
     "OriginalText": "手のバンテージ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Hand Bandages",
+    "Enabled": true
   },
   "440286": {
     "OriginalText": "日焼跡",
@@ -2411,7 +2411,7 @@
   },
   "440497": {
     "OriginalText": "ガラティオンウイング",
-    "Text": "Garation Wing",
+    "Text": "Garation Wings",
     "Enabled": true
   },
   "440498": {
@@ -2431,7 +2431,7 @@
   },
   "440501": {
     "OriginalText": "ノヴァトレートルＷウイング",
-    "Text": "Nova Traitor W Wing",
+    "Text": "Nova Traitor W Wings",
     "Enabled": true
   },
   "440502": {
@@ -2466,7 +2466,7 @@
   },
   "440508": {
     "OriginalText": "エイゲトリュゼウイング",
-    "Text": "Eigeto Ryuze Wing",
+    "Text": "Eigeto Ryuze Wings",
     "Enabled": true
   },
   "440509": {
@@ -2516,22 +2516,22 @@
   },
   "440518": {
     "OriginalText": "艦長の帽子",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain's Hat",
+    "Enabled": true
   },
   "440519": {
     "OriginalText": "艦長の腕章",
-    "Text": "",
-    "Enabled": false
+    "Text": "Captain's Armband",
+    "Enabled": true
   },
   "440520": {
     "OriginalText": "電子カルテ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Electronic Medical Record",
+    "Enabled": true
   },
   "440521": {
     "OriginalText": "カリストのスパナ",
-    "Text": "Calisto Spanner",
+    "Text": "Callisto Spanner",
     "Enabled": true
   },
   "440522": {
@@ -2546,12 +2546,12 @@
   },
   "440524": {
     "OriginalText": "腰スカートアーマー：ルティナ２\nフィルディアバージョン",
-    "Text": "Waist Skirt Armor: Lutina 2\nFildia Version",
+    "Text": "Waist Skirt Armor: Lutina 2 - Fildia Ver.",
     "Enabled": true
   },
   "440525": {
     "OriginalText": "腰スカートアーマー：フィルディア",
-    "Text": "Wait Skirt Armor: Fildia",
+    "Text": "Waist Skirt Armor: Fildia",
     "Enabled": true
   },
   "440526": {
